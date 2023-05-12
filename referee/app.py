@@ -44,7 +44,6 @@ def get_data():
         "init": True, 
         }
 
-
 @app.route('/', methods=['POST'])
 @cross_origin()
 def render_board():
@@ -82,7 +81,6 @@ def handle_move():
     # board_game.convert_board(board_game.game_info["board"])
     
     return 'ok'
-
 
 if __name__=="__main__":
     print(board_game.board)
