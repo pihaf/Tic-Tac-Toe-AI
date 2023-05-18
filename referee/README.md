@@ -1,7 +1,7 @@
-# Trọng tài
-## Cách sử dụng:
-1. Chạy câu lệnh `pip install -r requirements.txt` trong terminal để cài những thư viện cần thiết
-2. Chạy `python app.py` để chạy trọng tài
-3. Lấy địa chỉ trọng tài và các thông tin như sau để chạy Backend và Frontend:
+# Referee server
+## How to run:
+1. Use `pip install -r requirements.txt` in terminal to download the necessary libraries
+2. Run `python app.py` 
+3. Copy the referee server address and this information to run backend server and frontend server: 
 
     ![image](res/global_var.png)
