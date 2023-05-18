@@ -1,6 +1,7 @@
-# Hướng dẫn chạy
-1. Chạy trọng tài 
-2. Lấy link trọng tài để chạy Backend và Frontend
-3. Chạy Frontend 
-4. Chạy Backend
-5. Cách chạy cụ thể được hướng dẫn trong file README của referee, backend và frontend
+# HOW TO RUN
+1. Run the referee server 
+2. Copy referee server link and add it to the frontend and backend
+3. Run frontend server
+4. Run backend server
+
+The details on how to run different servers are in each folder README file
